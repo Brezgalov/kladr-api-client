@@ -4,8 +4,9 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6f71ea1730af9cbfa23eae235471d5e8",
-    "packages": [
+    "content-hash": "c10a396243865a6926a02df676623d2b",
+    "packages": [],
+    "packages-dev": [
         {
             "name": "brezgalov/api-wrapper",
             "version": "dev-master",
@@ -44,7 +45,6 @@
             "time": "2019-01-10T12:59:14+00:00"
         }
     ],
-    "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {

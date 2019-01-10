@@ -11,12 +11,14 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "ext-curl": "*",
-        "brezgalov/api-wrapper": "dev-master"
+        "ext-curl": "*"
     },
     "autoload": {
         "psr-4": {
             "brezgalov\\KladrApiClient\\": "src/"
         }
+    },
+    "require-dev": {
+        "brezgalov/api-wrapper": "dev-master"
     }
 }
