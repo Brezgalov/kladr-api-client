@@ -33,8 +33,9 @@ class KladrApi extends Client
     }
 
     /**
+     * serch info in kladr
      * @param array $params
-     * @return array|null
+     * @return \brezgalov\ApiWrapper\Response
      * @throws \Exception
      */
     public function search(array $params)
