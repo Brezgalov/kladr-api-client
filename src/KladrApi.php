@@ -1,8 +1,8 @@
 <?php
 
-namespace brezgalov\KladrApiClient;
+namespace Brezgalov\KladrApiClient;
 
-use brezgalov\ApiWrapper\Client;
+use Brezgalov\ApiWrapper\Client;
 
 class KladrApi extends Client
 {
